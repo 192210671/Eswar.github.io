@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name Eswar
 ======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+<h4>A Prompt Engineer | CLoUD Engineer</h4>
 
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
+- 🔭 I’m currently working on DSA in various Languages
+- 🌱 I’m Interested to work as prompt engineer and cloud engineer
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: eswarch2004y@gmail.com.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
