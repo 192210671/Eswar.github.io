@@ -1,40 +1,142 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name Eswar
-======================================================================================================================================
-<h4> Prompt Engineer | CLoUD Engineer</h4>
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-- 🔭 I’m currently working on DSA in various Languages
-- 🌱 I’m Interested to work as prompt engineer and cloud engineer
-- 💬 Ask me about Technology & Finance
-- 📫 How to reach me: eswarch2004y@gmail.com.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
 
-<a href="https://www.github.com/192210571" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/192210671?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=192210671&label=Profile%20views&color=0e75b6&style=flat" alt="192210671" /> </p>
+<p align="center">
+  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```yaml
+name: Eswar
+located_in: Ongole,Andhra Pradesh,India
+from: India
+
+education: ["Bachelor's in Artificially Intelligence"]
+college: saveeth school of engineering
+
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Motion Planning", "Optimization", 
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["python FS", "React", "Go"]
+will_learn: ["Cloud Engineering"]
+hobbies: ["volleyball", "Cinema", "Competitive Gaming", "coding"]
+```
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
 
 
+**:zap: Recent Activity:**
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
+<!--START_SECTION:activity-->
+1. ❗ Opened issue [#3](https://github.com/192210671/python/category 1) in [192210671/python](https://github.com/192210671/python)
+2. ❗ Opened issue [#2](https://github.com/guilyx/evmpie/issues/2) in [guilyx/evmpie](https://github.com/guilyx/evmpie)
+3. ❗ Opened issue [#1](https://github.com/guilyx/evmpie/issues/1) in [guilyx/evmpie](https://github.com/guilyx/evmpie)
+4. ❗ Opened issue [#1](https://github.com/Sango-Club/Dropped/issues/1) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
+5. 💪 Opened PR [#46](https://github.com/open-navigation/opennav_coverage/pull/46) in [open-navigation/opennav_coverage](https://github.com/open-navigation/opennav_coverage)
+<!--END_SECTION:activity-->
 
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C619%20hrs%2022%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.4%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 334.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 205 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 59 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+🌆 Daytime                2265 commits        ████████░░░░░░░░░░░░░░░░░   33.60 % 
+🌃 Evening                3128 commits        ████████████░░░░░░░░░░░░░   46.40 % 
+🌙 Night                  1064 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+```
 
 
-# Badges 
+📊 **This Week I Spent My Time On** 
 
-[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipayansarkar47)](https://holopin.io/@dipayansarkar47)
+```text
+🕑︎ Time Zone: Asia/Dubai
 
-<b>My GitHub Stats</b>
+💬 Programming Languages: 
+C++                      2 hrs               ████████████░░░░░░░░░░░░░   48.05 % 
+Python                   53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+C                        38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
-<a href="http://www.github.com/192210671"><img src="https://github-readme-stats.vercel.app/api?username=192210671&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="192210671's GitHub stats" /></a>
+🐱‍💻 Projects: 
+swarm_mission            1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   41.91 % 
+swamp_netbox_bridge      53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+evmpie                   47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+AttackMachine            18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+image-transfer-cs        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+```
 
-<a href="http://www.github.com/192210671"><img src="https://github-readme-streak-stats.herokuapp.com/?user=192210671&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/192210671"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=192210671&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ Last Updated on 19/03/2024 12:32:47 UTC
+<!--END_SECTION:waka-->
 
-<a href="https://github.com/192210671" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=192210671&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--START_SECTION:waka-simple-->
 
-<b>Top Repositories</b>
+```text
+From: 16 July 2020 - To: 18 March 2024
 
-<div width="100%" align="center"><a href="https://github.com/dipayansarkar4/Dipayan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dipayansarkar47/Sandesh" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+Total Time: 1,621 hrs 3 mins
+
+C++                560 hrs 9 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.56 %
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.33 %
+Python             224 hrs 28 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.85 %
+C                  129 hrs 38 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 %
+Bash               83 hrs 16 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.14 %
+YAML               75 hrs 19 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.65 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+Liked it ?
+
+*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
+
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
